@@ -1,0 +1,189 @@
+[
+    {
+        "id": "0",
+        "name": "Clere pampering powder fresh hand & body lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    },
+    {
+        "id": "1",
+        "name": "Clere Luxurious Vanilla Honey Cream body lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    },
+    {
+        "id": "2",
+        "name": "Clere Luxurious Rich Musk body lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    },
+    {
+        "id": "3",
+        "name": "Clere Nourishing Lanolin and Glycerine hand & body lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    },
+    {
+        "id": "4",
+        "name": "Clere Nourishing Tropical Coconut body lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    },
+    {
+        "id": "5",
+        "name": "Clere Smoothing Avocado Milk body lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    },
+    {
+        "id": "6",
+        "name": "Clere pampering berries and cream body lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    },
+    {
+        "id": "7",
+        "name": "Clere Nourishing Cocoa Butter body lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    },
+    {
+        "id": "8",
+        "name": "Clere endless passion lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    },
+    {
+        "id": "9",
+        "name": "Clere Infinite love lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    },
+    {
+        "id": "10",
+        "name": "Clere 5 oils with glycerin and radiance lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    },
+    {
+        "id": "11",
+        "name": "Clere Argan oil and almond oil with vitamin B3 lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    },
+    {
+        "id": "12",
+        "name": "Clere for men Legend body lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    },
+    {
+        "id": "13",
+        "name": "Clere for men Fire body lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    },
+    {
+        "id": "14",
+        "name": "Clere for men Storm body lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    },
+    {
+        "id": "15",
+        "name": "Clere for men Ice body lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    },
+    {
+        "id": "16",
+        "name": "Clere Pampering Argan Butter body lotion",
+        "image": "",
+        "price": 40.00,
+        "discountPrice": 35.00,
+        "inStock": true,
+        "category": "body",
+        "subCategory": "lotion",
+        "brand": 1
+    }
+]

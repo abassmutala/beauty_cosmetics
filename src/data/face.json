@@ -1,0 +1,16 @@
+{
+    "name": "Face",
+    "image": "/images/face_banner.png",
+    "subsections": [
+        {
+            "name": "Mask",
+            "image": "",
+            "href": "/mask"
+        },
+        {
+            "name": "Radiance",
+            "image": "",
+            "href": "/radiance"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Body",
+    "image": "/images/body_banner.png",
+    "subsections": [
+        {
+            "name": "Lotions",
+            "image": "",
+            "href": "/lotion"
+        },
+        {
+            "name": "Creams",
+            "image": "",
+            "href": "/cream"
+        },
+        {
+            "name": "Body oils",
+            "image": "",
+            "href": "/bodyOil"
+        }
+    ]
+}

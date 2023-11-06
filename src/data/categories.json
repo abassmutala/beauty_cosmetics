@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "Face",
+        "image": "/images/face.png"
+    },
+    {
+        "id": "2",
+        "name": "Body",
+        "image": "/images/body.png"
+    },
+    {
+        "id": "3",
+        "name": "Hair",
+        "image": "/images/hair.png"
+    },
+    {
+        "id": "4",
+        "name": "Fragrance",
+        "image": "/images/fragrance.png"
+    }
+]

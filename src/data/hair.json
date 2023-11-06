@@ -1,0 +1,31 @@
+{
+    "name": "Hair",
+    "image": "/images/hair_banner.png",
+    "subsections": [
+        {
+            "name": "Shampoo",
+            "image": "",
+            "href": "/shampoo"
+        },
+        {
+            "name": "Conditioners",
+            "image": "",
+            "href": "/conditioners"
+        },
+        {
+            "name": "Moisturisers",
+            "image": "",
+            "href": "/moisturisers"
+        },
+        {
+            "name": "Hair treatment",
+            "image": "",
+            "href": "/hair-treatment"
+        },
+        {
+            "name": "Styling",
+            "image": "",
+            "href": "/styling"
+        }
+    ]
+}

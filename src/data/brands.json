@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Clere",
+        "logo": "",
+        "heroImage": "/images/clere_hero_banner.jpg",
+        "bannerImage": "/images/clere_banner.png"
+    },
+    {
+        "id": 2,
+        "name": "Shower 2 Shower",
+        "logo": "",
+        "heroImage": "/images/shower_to_shower_hero_banner_m.jpg",
+        "bannerImage": "/images/"
+    },
+    {
+        "id": 3,
+        "name": "Easywaves",
+        "logo": "",
+        "heroImage": "/images/easy_waves_hero_banner.jpg",
+        "bannerImage": "/images/easy_waves_banner.png"
+    },
+    {
+        "id": 4,
+        "name": "Stylin Dredz",
+        "logo": "",
+        "heroImage": "/images/stylin_dredz_hero_banner.jpg",
+        "bannerImage": "/images/stylin_dredz_banner.png"
+    },
+    {
+        "id": 5,
+        "name": "Revlon",
+        "logo": "",
+        "heroImage": "/images/revlon_hero_banner.jpg",
+        "bannerImage": "/images/"
+    },
+    {
+        "id": 6,
+        "name": "Girlfriend",
+        "logo": "",
+        "heroImage": "/images/",
+        "bannerImage": "/images/girlfriend_banner.png"
+    },
+    {
+        "id": 7,
+        "name": "Amla Oil",
+        "logo": "",
+        "heroImage": "/images/amla_oil_hero_banner.jpg",
+        "bannerImage": "/images/amla_oil_banner.png"
+    },
+    {
+        "id": 8,
+        "name": "Glosheen",
+        "logo": "",
+        "heroImage": "/images/",
+        "bannerImage": "/images/glosheen_banner.png"
+    },
+    {
+        "id": 9,
+        "name": "Organico",
+        "logo": "",
+        "heroImage": "/images/",
+        "bannerImage": "/images/organico_banner.png"
+    },
+    {
+        "id": 10,
+        "name": "Malizia",
+        "logo": "",
+        "heroImage": "/images/",
+        "bannerImage": "/images/malizia_banner.png"
+    },
+    {
+        "id": 11,
+        "name": "Sta Sof Pro",
+        "logo": "",
+        "heroImage": "/images/",
+        "bannerImage": "/images/sta_sof_pro_banner.png"
+    },
+    {
+        "id": 12,
+        "name": "Power House",
+        "logo": "",
+        "heroImage": "/images/",
+        "bannerImage": "/images/power_house_banner.png"
+    }
+]

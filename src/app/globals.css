@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #F2F2F2;
+    --foreground: #1E080E;
+
+    --subtitle: #5E5E5E;
+
+    /* --muted: 210 40% 96.1%; */
+    /* --muted-foreground: 215.4 16.3% 46.9%; */
+
+    /* --popover: 0 0% 100%; */
+    /* --popover-foreground: 222.2 47.4% 11.2%; */
+
+    --border: #707070;
+    /* --input: 214.3 31.8% 91.4%; */
+
+    /* --card: 0 0% 100%; */
+    /* --card-foreground: 222.2 47.4% 11.2%; */
+
+    --primary: #D1AB6C;
+    /* --primary-foreground: 210 40% 98%; */
+
+    /* --secondary: 210 40% 96.1%; */
+    /* --secondary-foreground: 222.2 47.4% 11.2%; */
+
+    --accent: #FD6B21;
+    /* --accent-foreground: 222.2 47.4% 11.2%; */
+
+    --footer: #F5F3F1;
+
+    /* --destructive: 0 100% 50%; */
+    /* --destructive-foreground: 210 40% 98%; */
+
+    /* --ring: 215 20.2% 65.1%; */
+
+    --radius: 0.25rem;
+  }
+
+}
+
+@layer utilities {
+    /* Hide scrollbar for Chrome, Safari, and Opera */
+    .no-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+
+
+    /* Hide scrollbar for IE, Edge, and Firefox */
+    .no-scrollbar {
+      -ms-overflow-style: none; /* IE and Edge */
+      scrollbar-width: none; /* Firefox */
+    }
+}
